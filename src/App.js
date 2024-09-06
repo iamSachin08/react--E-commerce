@@ -31,7 +31,7 @@ const router = createBrowserRouter([
     element:(<CartPage></CartPage>)
   },
 ])
-//kunal jain
+
 function App() {
   return (
     <div className="App" >
